@@ -1,4 +1,4 @@
-A collection of LeetCode questions to ace the coding interview! 
+Welcome to my **LeetCode Solutions** repository! This repository contains my solutions to LeetCode problems, implemented in **C++**, as part of my journey to strengthen my **Data Structures & Algorithms (DSA)** and problem-solving skills.
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
