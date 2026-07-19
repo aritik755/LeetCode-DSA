@@ -35,6 +35,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/aritik755/LeetCode-DSA/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/aritik755/LeetCode-DSA/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/aritik755/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aritik755/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/aritik755/LeetCode-DSA/tree/master/0326-power-of-three) |
@@ -49,6 +50,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/aritik755/LeetCode-DSA/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/aritik755/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/aritik755/LeetCode-DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/aritik755/LeetCode-DSA/tree/master/0342-power-of-four) |
