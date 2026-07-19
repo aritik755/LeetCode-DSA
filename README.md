@@ -26,6 +26,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aritik755/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/aritik755/LeetCode-DSA/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0268-missing-number](https://github.com/aritik755/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/aritik755/LeetCode-DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/aritik755/LeetCode-DSA/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/aritik755/LeetCode-DSA/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -50,4 +52,9 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0231-power-of-two](https://github.com/aritik755/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/aritik755/LeetCode-DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/aritik755/LeetCode-DSA/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/aritik755/LeetCode-DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/aritik755/LeetCode-DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
