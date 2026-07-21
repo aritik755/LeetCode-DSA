@@ -12,6 +12,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0268-missing-number](https://github.com/aritik755/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/aritik755/LeetCode-DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aritik755/LeetCode-DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/aritik755/LeetCode-DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -31,6 +32,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | ------- |
 | [0088-merge-sorted-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/aritik755/LeetCode-DSA/tree/master/0268-missing-number) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/aritik755/LeetCode-DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
