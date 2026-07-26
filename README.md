@@ -85,6 +85,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/aritik755/LeetCode-DSA/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/aritik755/LeetCode-DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/aritik755/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/aritik755/LeetCode-DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/aritik755/LeetCode-DSA/tree/master/0342-power-of-four) |
@@ -111,4 +112,8 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [1768-merge-strings-alternately](https://github.com/aritik755/LeetCode-DSA/tree/master/1768-merge-strings-alternately) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/aritik755/LeetCode-DSA/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/aritik755/LeetCode-DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/aritik755/LeetCode-DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
