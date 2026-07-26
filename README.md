@@ -31,6 +31,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/aritik755/LeetCode-DSA/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/aritik755/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/aritik755/LeetCode-DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -98,5 +99,6 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/aritik755/LeetCode-DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/aritik755/LeetCode-DSA/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
