@@ -5,6 +5,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aritik755/LeetCode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0027-remove-element](https://github.com/aritik755/LeetCode-DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/aritik755/LeetCode-DSA/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aritik755/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -32,6 +33,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/aritik755/LeetCode-DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/aritik755/LeetCode-DSA/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/aritik755/LeetCode-DSA/tree/master/0283-move-zeroes) |
