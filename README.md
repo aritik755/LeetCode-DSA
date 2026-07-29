@@ -86,6 +86,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/aritik755/LeetCode-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/aritik755/LeetCode-DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/aritik755/LeetCode-DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/aritik755/LeetCode-DSA/tree/master/0231-power-of-two) |
@@ -117,5 +118,6 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/aritik755/LeetCode-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/aritik755/LeetCode-DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
