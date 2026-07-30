@@ -105,6 +105,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aritik755/LeetCode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/aritik755/LeetCode-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/aritik755/LeetCode-DSA/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -123,8 +124,17 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/aritik755/LeetCode-DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/aritik755/LeetCode-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aritik755/LeetCode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/aritik755/LeetCode-DSA/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/aritik755/LeetCode-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aritik755/LeetCode-DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aritik755/LeetCode-DSA/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aritik755/LeetCode-DSA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
