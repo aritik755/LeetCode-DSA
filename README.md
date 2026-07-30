@@ -44,6 +44,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0977-squares-of-a-sorted-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/aritik755/LeetCode-DSA/tree/master/1768-merge-strings-alternately) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/aritik755/LeetCode-DSA/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aritik755/LeetCode-DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/aritik755/LeetCode-DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Sorting
 |  |
@@ -125,4 +126,5 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0160-intersection-of-two-linked-lists](https://github.com/aritik755/LeetCode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/aritik755/LeetCode-DSA/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/aritik755/LeetCode-DSA/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aritik755/LeetCode-DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
