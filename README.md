@@ -35,6 +35,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aritik755/LeetCode-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/aritik755/LeetCode-DSA/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/aritik755/LeetCode-DSA/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/aritik755/LeetCode-DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/aritik755/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
@@ -129,6 +130,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aritik755/LeetCode-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/aritik755/LeetCode-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/aritik755/LeetCode-DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0061-rotate-list](https://github.com/aritik755/LeetCode-DSA/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/aritik755/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aritik755/LeetCode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/aritik755/LeetCode-DSA/tree/master/0206-reverse-linked-list) |
