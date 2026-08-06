@@ -11,6 +11,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aritik755/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/aritik755/LeetCode-DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/aritik755/LeetCode-DSA/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/aritik755/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aritik755/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/aritik755/LeetCode-DSA/tree/master/0704-binary-search) |
@@ -55,6 +56,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | ------- |
 | [0088-merge-sorted-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/aritik755/LeetCode-DSA/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/aritik755/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aritik755/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/aritik755/LeetCode-DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -116,6 +118,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0004-median-of-two-sorted-arrays](https://github.com/aritik755/LeetCode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/aritik755/LeetCode-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/aritik755/LeetCode-DSA/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -151,6 +154,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aritik755/LeetCode-DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0215-kth-largest-element-in-an-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -159,4 +163,8 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/aritik755/LeetCode-DSA/tree/master/0234-palindrome-linked-list) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
