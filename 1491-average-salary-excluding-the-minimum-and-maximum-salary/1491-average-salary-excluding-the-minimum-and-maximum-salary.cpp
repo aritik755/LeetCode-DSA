@@ -7,6 +7,7 @@ public:
             if(min > salary[i]) min = salary[i];
             sum += salary[i];
         }
-        return static_cast<double>(sum - (max + min)) / (salary.size() - 2);
+        double avg = (sum - (max + min))/(salary.size() - 2);
+        return avg;
     }
 };
