@@ -131,6 +131,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aritik755/LeetCode-DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/aritik755/LeetCode-DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/aritik755/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/aritik755/LeetCode-DSA/tree/master/0344-reverse-string) |
@@ -167,9 +168,14 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aritik755/LeetCode-DSA/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/aritik755/LeetCode-DSA/tree/master/0234-palindrome-linked-list) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/aritik755/LeetCode-DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
