@@ -20,6 +20,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0747-largest-number-at-least-twice-of-others](https://github.com/aritik755/LeetCode-DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/aritik755/LeetCode-DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/aritik755/LeetCode-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/aritik755/LeetCode-DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/aritik755/LeetCode-DSA/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aritik755/LeetCode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -94,6 +95,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0507-perfect-number](https://github.com/aritik755/LeetCode-DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/aritik755/LeetCode-DSA/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/aritik755/LeetCode-DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/aritik755/LeetCode-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
