@@ -96,6 +96,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0509-fibonacci-number](https://github.com/aritik755/LeetCode-DSA/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/aritik755/LeetCode-DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aritik755/LeetCode-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aritik755/LeetCode-DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -103,6 +104,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0231-power-of-two](https://github.com/aritik755/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aritik755/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/aritik755/LeetCode-DSA/tree/master/0342-power-of-four) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aritik755/LeetCode-DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
 | ------- |
