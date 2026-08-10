@@ -73,6 +73,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aritik755/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/aritik755/LeetCode-DSA/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/aritik755/LeetCode-DSA/tree/master/1025-divisor-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,6 +95,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0342-power-of-four](https://github.com/aritik755/LeetCode-DSA/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/aritik755/LeetCode-DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/aritik755/LeetCode-DSA/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/aritik755/LeetCode-DSA/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/aritik755/LeetCode-DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aritik755/LeetCode-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aritik755/LeetCode-DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -183,4 +185,16 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aritik755/LeetCode-DSA/tree/master/0020-valid-parentheses) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/aritik755/LeetCode-DSA/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/aritik755/LeetCode-DSA/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/aritik755/LeetCode-DSA/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
