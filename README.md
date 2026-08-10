@@ -100,6 +100,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aritik755/LeetCode-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aritik755/LeetCode-DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/aritik755/LeetCode-DSA/tree/master/1486-xor-operation-in-an-array) |
+| [1492-the-kth-factor-of-n](https://github.com/aritik755/LeetCode-DSA/tree/master/1492-the-kth-factor-of-n) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -199,4 +200,12 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/aritik755/LeetCode-DSA/tree/master/1025-divisor-game) |
+## Number Theory
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/aritik755/LeetCode-DSA/tree/master/1492-the-kth-factor-of-n) |
+## Prime Factorization
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/aritik755/LeetCode-DSA/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
