@@ -101,6 +101,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aritik755/LeetCode-DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/aritik755/LeetCode-DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1492-the-kth-factor-of-n](https://github.com/aritik755/LeetCode-DSA/tree/master/1492-the-kth-factor-of-n) |
+| [1952-three-divisors](https://github.com/aritik755/LeetCode-DSA/tree/master/1952-three-divisors) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -204,8 +205,18 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/aritik755/LeetCode-DSA/tree/master/1492-the-kth-factor-of-n) |
+| [1952-three-divisors](https://github.com/aritik755/LeetCode-DSA/tree/master/1952-three-divisors) |
 ## Prime Factorization
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/aritik755/LeetCode-DSA/tree/master/1492-the-kth-factor-of-n) |
+| [1952-three-divisors](https://github.com/aritik755/LeetCode-DSA/tree/master/1952-three-divisors) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/aritik755/LeetCode-DSA/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/aritik755/LeetCode-DSA/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
