@@ -102,6 +102,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [1486-xor-operation-in-an-array](https://github.com/aritik755/LeetCode-DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1492-the-kth-factor-of-n](https://github.com/aritik755/LeetCode-DSA/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/aritik755/LeetCode-DSA/tree/master/1952-three-divisors) |
+| [2119-a-number-after-a-double-reversal](https://github.com/aritik755/LeetCode-DSA/tree/master/2119-a-number-after-a-double-reversal) |
 ## Bit Manipulation
 |  |
 | ------- |
