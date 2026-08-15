@@ -16,6 +16,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0217-contains-duplicate](https://github.com/aritik755/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/aritik755/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aritik755/LeetCode-DSA/tree/master/0283-move-zeroes) |
+| [0628-maximum-product-of-three-numbers](https://github.com/aritik755/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/aritik755/LeetCode-DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aritik755/LeetCode-DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/aritik755/LeetCode-DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -66,6 +67,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0217-contains-duplicate](https://github.com/aritik755/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aritik755/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aritik755/LeetCode-DSA/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/aritik755/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/aritik755/LeetCode-DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/aritik755/LeetCode-DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -99,6 +101,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0342-power-of-four](https://github.com/aritik755/LeetCode-DSA/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/aritik755/LeetCode-DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/aritik755/LeetCode-DSA/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/aritik755/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/aritik755/LeetCode-DSA/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/aritik755/LeetCode-DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aritik755/LeetCode-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
