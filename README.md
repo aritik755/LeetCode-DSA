@@ -28,6 +28,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/aritik755/LeetCode-DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1929-concatenation-of-array](https://github.com/aritik755/LeetCode-DSA/tree/master/1929-concatenation-of-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/aritik755/LeetCode-DSA/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/aritik755/LeetCode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aritik755/LeetCode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/aritik755/LeetCode-DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Binary Search
@@ -116,6 +117,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [1492-the-kth-factor-of-n](https://github.com/aritik755/LeetCode-DSA/tree/master/1492-the-kth-factor-of-n) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/aritik755/LeetCode-DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1952-three-divisors](https://github.com/aritik755/LeetCode-DSA/tree/master/1952-three-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/aritik755/LeetCode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/aritik755/LeetCode-DSA/tree/master/2119-a-number-after-a-double-reversal) |
 ## Bit Manipulation
 |  |
@@ -223,6 +225,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/aritik755/LeetCode-DSA/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/aritik755/LeetCode-DSA/tree/master/1952-three-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/aritik755/LeetCode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Prime Factorization
 |  |
 | ------- |
@@ -244,4 +247,12 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aritik755/LeetCode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/aritik755/LeetCode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/aritik755/LeetCode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
