@@ -200,6 +200,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aritik755/LeetCode-DSA/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/aritik755/LeetCode-DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/aritik755/LeetCode-DSA/tree/master/0234-palindrome-linked-list) |
 ## Quickselect
 |  |
@@ -257,4 +258,8 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aritik755/LeetCode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/aritik755/LeetCode-DSA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
