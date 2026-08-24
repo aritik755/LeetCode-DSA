@@ -10,6 +10,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0088-merge-sorted-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aritik755/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/aritik755/LeetCode-DSA/tree/master/0136-single-number) |
+| [0164-maximum-gap](https://github.com/aritik755/LeetCode-DSA/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/aritik755/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -66,6 +67,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
+| [0164-maximum-gap](https://github.com/aritik755/LeetCode-DSA/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/aritik755/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/aritik755/LeetCode-DSA/tree/master/0217-contains-duplicate) |
@@ -264,4 +266,16 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/aritik755/LeetCode-DSA/tree/master/0155-min-stack) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/aritik755/LeetCode-DSA/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/aritik755/LeetCode-DSA/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/aritik755/LeetCode-DSA/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
