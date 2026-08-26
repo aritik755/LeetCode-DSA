@@ -207,6 +207,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | ------- |
 | [0020-valid-parentheses](https://github.com/aritik755/LeetCode-DSA/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/aritik755/LeetCode-DSA/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/aritik755/LeetCode-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/aritik755/LeetCode-DSA/tree/master/0234-palindrome-linked-list) |
 ## Quickselect
 |  |
@@ -268,6 +269,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/aritik755/LeetCode-DSA/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/aritik755/LeetCode-DSA/tree/master/0232-implement-queue-using-stacks) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -283,6 +285,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/aritik755/LeetCode-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/aritik755/LeetCode-DSA/tree/master/0239-sliding-window-maximum) |
 ## Sliding Window
 |  |
