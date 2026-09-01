@@ -130,6 +130,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [2235-add-two-integers](https://github.com/aritik755/LeetCode-DSA/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/aritik755/LeetCode-DSA/tree/master/2413-smallest-even-multiple) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/aritik755/LeetCode-DSA/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2469-convert-the-temperature](https://github.com/aritik755/LeetCode-DSA/tree/master/2469-convert-the-temperature) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aritik755/LeetCode-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
