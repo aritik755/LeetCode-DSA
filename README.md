@@ -135,6 +135,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [2520-count-the-digits-that-divide-a-number](https://github.com/aritik755/LeetCode-DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/aritik755/LeetCode-DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/aritik755/LeetCode-DSA/tree/master/2652-sum-multiples) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aritik755/LeetCode-DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aritik755/LeetCode-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
