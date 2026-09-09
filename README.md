@@ -139,6 +139,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [2769-find-the-maximum-achievable-number](https://github.com/aritik755/LeetCode-DSA/tree/master/2769-find-the-maximum-achievable-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aritik755/LeetCode-DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aritik755/LeetCode-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3783-mirror-distance-of-an-integer](https://github.com/aritik755/LeetCode-DSA/tree/master/3783-mirror-distance-of-an-integer) |
 | [3959-check-good-integer](https://github.com/aritik755/LeetCode-DSA/tree/master/3959-check-good-integer) |
 ## Bit Manipulation
 |  |
