@@ -15,6 +15,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aritik755/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/aritik755/LeetCode-DSA/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/aritik755/LeetCode-DSA/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/aritik755/LeetCode-DSA/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/aritik755/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0189-rotate-array) |
@@ -50,6 +51,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aritik755/LeetCode-DSA/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aritik755/LeetCode-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/aritik755/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/aritik755/LeetCode-DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aritik755/LeetCode-DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
