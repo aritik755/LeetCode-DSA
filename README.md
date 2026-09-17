@@ -123,6 +123,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0189-rotate-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/aritik755/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aritik755/LeetCode-DSA/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/aritik755/LeetCode-DSA/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/aritik755/LeetCode-DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/aritik755/LeetCode-DSA/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/aritik755/LeetCode-DSA/tree/master/0507-perfect-number) |
@@ -250,14 +251,17 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/aritik755/LeetCode-DSA/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/aritik755/LeetCode-DSA/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/aritik755/LeetCode-DSA/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/aritik755/LeetCode-DSA/tree/master/1025-divisor-game) |
 ## Impartial Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/aritik755/LeetCode-DSA/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/aritik755/LeetCode-DSA/tree/master/1025-divisor-game) |
 ## Number Theory
 |  |
@@ -337,4 +341,12 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/aritik755/LeetCode-DSA/tree/master/0054-spiral-matrix) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/aritik755/LeetCode-DSA/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/aritik755/LeetCode-DSA/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
