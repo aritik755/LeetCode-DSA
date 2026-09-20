@@ -31,6 +31,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0747-largest-number-at-least-twice-of-others](https://github.com/aritik755/LeetCode-DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/aritik755/LeetCode-DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/aritik755/LeetCode-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aritik755/LeetCode-DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aritik755/LeetCode-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aritik755/LeetCode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -58,6 +59,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0540-single-element-in-a-sorted-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/aritik755/LeetCode-DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aritik755/LeetCode-DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/aritik755/LeetCode-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aritik755/LeetCode-DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aritik755/LeetCode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aritik755/LeetCode-DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
