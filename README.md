@@ -48,6 +48,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aritik755/LeetCode-DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/aritik755/LeetCode-DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2643-row-with-maximum-ones](https://github.com/aritik755/LeetCode-DSA/tree/master/2643-row-with-maximum-ones) |
+| [3978-unique-middle-element](https://github.com/aritik755/LeetCode-DSA/tree/master/3978-unique-middle-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -200,6 +201,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | ------- |
 | [0169-majority-element](https://github.com/aritik755/LeetCode-DSA/tree/master/0169-majority-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aritik755/LeetCode-DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3978-unique-middle-element](https://github.com/aritik755/LeetCode-DSA/tree/master/3978-unique-middle-element) |
 ## String
 |  |
 | ------- |
