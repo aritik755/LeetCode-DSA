@@ -47,6 +47,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/aritik755/LeetCode-DSA/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aritik755/LeetCode-DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/aritik755/LeetCode-DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2643-row-with-maximum-ones](https://github.com/aritik755/LeetCode-DSA/tree/master/2643-row-with-maximum-ones) |
 ## Binary Search
 |  |
 | ------- |
@@ -349,6 +350,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/aritik755/LeetCode-DSA/tree/master/0054-spiral-matrix) |
+| [2643-row-with-maximum-ones](https://github.com/aritik755/LeetCode-DSA/tree/master/2643-row-with-maximum-ones) |
 ## Minimax
 |  |
 | ------- |
