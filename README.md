@@ -19,6 +19,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/aritik755/LeetCode-DSA/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/aritik755/LeetCode-DSA/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/aritik755/LeetCode-DSA/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/aritik755/LeetCode-DSA/tree/master/0217-contains-duplicate) |
@@ -100,6 +101,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0088-merge-sorted-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/aritik755/LeetCode-DSA/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/aritik755/LeetCode-DSA/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/aritik755/LeetCode-DSA/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/aritik755/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aritik755/LeetCode-DSA/tree/master/0242-valid-anagram) |
@@ -217,6 +219,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0020-valid-parentheses](https://github.com/aritik755/LeetCode-DSA/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/aritik755/LeetCode-DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/aritik755/LeetCode-DSA/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/aritik755/LeetCode-DSA/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/aritik755/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/aritik755/LeetCode-DSA/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/aritik755/LeetCode-DSA/tree/master/0709-to-lower-case) |
@@ -375,4 +378,8 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/aritik755/LeetCode-DSA/tree/master/0128-longest-consecutive-sequence) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/aritik755/LeetCode-DSA/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
