@@ -222,6 +222,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0179-largest-number](https://github.com/aritik755/LeetCode-DSA/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/aritik755/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/aritik755/LeetCode-DSA/tree/master/0344-reverse-string) |
+| [0520-detect-capital](https://github.com/aritik755/LeetCode-DSA/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/aritik755/LeetCode-DSA/tree/master/0709-to-lower-case) |
 | [1768-merge-strings-alternately](https://github.com/aritik755/LeetCode-DSA/tree/master/1768-merge-strings-alternately) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/aritik755/LeetCode-DSA/tree/master/1961-check-if-string-is-a-prefix-of-array) |
