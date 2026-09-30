@@ -121,6 +121,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aritik755/LeetCode-DSA/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aritik755/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/aritik755/LeetCode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/aritik755/LeetCode-DSA/tree/master/0509-fibonacci-number) |
@@ -220,6 +221,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aritik755/LeetCode-DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/aritik755/LeetCode-DSA/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/aritik755/LeetCode-DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/aritik755/LeetCode-DSA/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/aritik755/LeetCode-DSA/tree/master/0179-largest-number) |
@@ -277,6 +279,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aritik755/LeetCode-DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/aritik755/LeetCode-DSA/tree/master/0022-generate-parentheses) |
 ## Brainteaser
 |  |
 | ------- |
@@ -388,4 +391,8 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/aritik755/LeetCode-DSA/tree/master/0179-largest-number) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/aritik755/LeetCode-DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
