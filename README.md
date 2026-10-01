@@ -46,6 +46,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [2089-find-target-indices-after-sorting-array](https://github.com/aritik755/LeetCode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/aritik755/LeetCode-DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aritik755/LeetCode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aritik755/LeetCode-DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/aritik755/LeetCode-DSA/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aritik755/LeetCode-DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/aritik755/LeetCode-DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -137,6 +138,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0242-valid-anagram](https://github.com/aritik755/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aritik755/LeetCode-DSA/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aritik755/LeetCode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aritik755/LeetCode-DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Math
 |  |
 | ------- |
@@ -165,6 +167,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [2119-a-number-after-a-double-reversal](https://github.com/aritik755/LeetCode-DSA/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/aritik755/LeetCode-DSA/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/aritik755/LeetCode-DSA/tree/master/2413-smallest-even-multiple) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aritik755/LeetCode-DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/aritik755/LeetCode-DSA/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/aritik755/LeetCode-DSA/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/aritik755/LeetCode-DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -215,6 +218,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aritik755/LeetCode-DSA/tree/master/0169-majority-element) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aritik755/LeetCode-DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aritik755/LeetCode-DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3978-unique-middle-element](https://github.com/aritik755/LeetCode-DSA/tree/master/3978-unique-middle-element) |
 ## String
