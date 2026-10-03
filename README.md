@@ -4,6 +4,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aritik755/LeetCode-DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/aritik755/LeetCode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/aritik755/LeetCode-DSA/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0033-search-in-rotated-sorted-array) |
@@ -130,6 +131,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aritik755/LeetCode-DSA/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/aritik755/LeetCode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/aritik755/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aritik755/LeetCode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
