@@ -81,6 +81,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aritik755/LeetCode-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/aritik755/LeetCode-DSA/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/aritik755/LeetCode-DSA/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/aritik755/LeetCode-DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/aritik755/LeetCode-DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/aritik755/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
@@ -252,6 +253,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0023-merge-k-sorted-lists](https://github.com/aritik755/LeetCode-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/aritik755/LeetCode-DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/aritik755/LeetCode-DSA/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/aritik755/LeetCode-DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/aritik755/LeetCode-DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/aritik755/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/aritik755/LeetCode-DSA/tree/master/0148-sort-list) |
