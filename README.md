@@ -94,6 +94,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0876-middle-of-the-linked-list](https://github.com/aritik755/LeetCode-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/aritik755/LeetCode-DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/aritik755/LeetCode-DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/aritik755/LeetCode-DSA/tree/master/1768-merge-strings-alternately) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/aritik755/LeetCode-DSA/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aritik755/LeetCode-DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -265,6 +266,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0328-odd-even-linked-list](https://github.com/aritik755/LeetCode-DSA/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/aritik755/LeetCode-DSA/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/aritik755/LeetCode-DSA/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/aritik755/LeetCode-DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aritik755/LeetCode-DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/aritik755/LeetCode-DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Heap (Priority Queue)
