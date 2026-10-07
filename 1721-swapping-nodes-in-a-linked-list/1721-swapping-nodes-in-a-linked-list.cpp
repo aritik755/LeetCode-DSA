@@ -11,30 +11,27 @@
 class Solution {
 public:
     ListNode* swapNodes(ListNode* head, int k) {
-        vector<int> v;
-        ListNode* temp = head;
-        while(temp != NULL){
-            v.push_back(temp->val);
+        ListNode* first = head;
+        ListNode* second = head;
+
+        // Find kth node from beginning
+        for (int i = 1; i < k; i++) {
+            first = first->next;
+        }
+
+        // Move second pointer k nodes behind first
+        ListNode* temp = first;
+
+        while (temp->next != NULL) {
             temp = temp->next;
+            second = second->next;
         }
-        int i = 0, j = v.size() - 1;
-        while((k - 1) != 0){
-            i++, j--, k--;
-        }
-        swap(v[i], v[j]);
-        ListNode* head1 = NULL;
-        ListNode* tail = NULL;
-        for(int i = 0; i < v.size(); i++){
-            ListNode* newNode = new ListNode(v[i]);
-            if(head1 == NULL){
-                head1 = newNode;
-                tail = newNode;
-            }
-            else{
-                tail->next = newNode;
-                tail = newNode;
-            }
-        }
-        return head1;
+
+        // Swap values
+        int var = first->val;
+        first->val = second->val;
+        second->val = var;
+
+        return head;
     }
 };
