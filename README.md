@@ -34,6 +34,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aritik755/LeetCode-DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/aritik755/LeetCode-DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/aritik755/LeetCode-DSA/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aritik755/LeetCode-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aritik755/LeetCode-DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -118,6 +119,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0628-maximum-product-of-three-numbers](https://github.com/aritik755/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/aritik755/LeetCode-DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/aritik755/LeetCode-DSA/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aritik755/LeetCode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aritik755/LeetCode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -224,6 +226,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0148-sort-list](https://github.com/aritik755/LeetCode-DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/aritik755/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -278,12 +281,14 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0023-merge-k-sorted-lists](https://github.com/aritik755/LeetCode-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/aritik755/LeetCode-DSA/tree/master/0239-sliding-window-maximum) |
+| [0912-sort-an-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aritik755/LeetCode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aritik755/LeetCode-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/aritik755/LeetCode-DSA/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0912-sort-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -348,6 +353,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aritik755/LeetCode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Euclidean Algorithm
 |  |
@@ -367,10 +373,12 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/aritik755/LeetCode-DSA/tree/master/0164-maximum-gap) |
+| [0912-sort-an-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/aritik755/LeetCode-DSA/tree/master/0164-maximum-gap) |
+| [0912-sort-an-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0912-sort-an-array) |
 ## Pigeonhole Principle
 |  |
 | ------- |
