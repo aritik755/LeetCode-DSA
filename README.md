@@ -293,6 +293,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aritik755/LeetCode-DSA/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/aritik755/LeetCode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/aritik755/LeetCode-DSA/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/aritik755/LeetCode-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/aritik755/LeetCode-DSA/tree/master/0234-palindrome-linked-list) |
@@ -425,4 +426,16 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/aritik755/LeetCode-DSA/tree/master/0022-generate-parentheses) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/aritik755/LeetCode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/aritik755/LeetCode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/aritik755/LeetCode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
