@@ -433,6 +433,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0100-same-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/aritik755/LeetCode-DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
@@ -440,6 +441,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0094-binary-tree-inorder-traversal](https://github.com/aritik755/LeetCode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
@@ -448,6 +450,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0100-same-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/aritik755/LeetCode-DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
@@ -463,4 +466,8 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0572-subtree-of-another-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
