@@ -13,11 +13,8 @@ class Solution {
 public:
     bool isIdentical(TreeNode* p, TreeNode* q){
         if(p == NULL || q == NULL) return p == q;
-
-        bool isLeftSame = isIdentical(p->left, q->left);
-        bool isRightSame = isIdentical(p->right, q->right);
-
-        return isLeftSame && isRightSame && p->val == q->val;
+        
+        return isIdentical(p->left, q->left) && isIdentical(p->right, q->right) && p->val == q->val;
     }
     bool isSubtree(TreeNode* root, TreeNode* subRoot) {
         if(root == NULL || subRoot == NULL) return root == subRoot;
