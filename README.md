@@ -247,6 +247,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0179-largest-number](https://github.com/aritik755/LeetCode-DSA/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/aritik755/LeetCode-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/aritik755/LeetCode-DSA/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/aritik755/LeetCode-DSA/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/aritik755/LeetCode-DSA/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/aritik755/LeetCode-DSA/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/aritik755/LeetCode-DSA/tree/master/0709-to-lower-case) |
@@ -431,6 +432,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/aritik755/LeetCode-DSA/tree/master/0022-generate-parentheses) |
+| [0257-binary-tree-paths](https://github.com/aritik755/LeetCode-DSA/tree/master/0257-binary-tree-paths) |
 ## Tree
 |  |
 | ------- |
@@ -442,6 +444,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0144-binary-tree-preorder-traversal](https://github.com/aritik755/LeetCode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aritik755/LeetCode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/aritik755/LeetCode-DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
@@ -453,6 +456,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0144-binary-tree-preorder-traversal](https://github.com/aritik755/LeetCode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aritik755/LeetCode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/aritik755/LeetCode-DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
@@ -466,6 +470,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0144-binary-tree-preorder-traversal](https://github.com/aritik755/LeetCode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aritik755/LeetCode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/aritik755/LeetCode-DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
