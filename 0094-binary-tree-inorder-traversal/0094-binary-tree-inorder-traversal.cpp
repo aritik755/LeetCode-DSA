@@ -11,16 +11,33 @@
  */
 class Solution {
 public:
-    vector<int> ans; 
-    void InOrder(TreeNode* root){ 
-    if(root == NULL) return;
+    vector<int> inorderTraversal(TreeNode* root) { 
+        vector<int> ans; 
+        TreeNode* curr = root;
 
-    InOrder(root->left);
-    ans.push_back(root->val);
-    InOrder(root->right);
-    }
-    vector<int> inorderTraversal(TreeNode* root) {
-        InOrder(root);
+        while(curr != NULL){
+            if(curr->left == NULL){
+                ans.push_back(curr->val);
+                curr = curr->right;
+            }
+            else{
+                TreeNode* IP = curr->left;
+                while(IP->right != NULL && IP->right != curr){
+                    IP = IP->right;
+                }
+
+                if(IP->right == NULL){
+                    IP->right = curr;
+                    curr = curr->left;
+                } 
+                else {
+                    IP->right = NULL;
+                    ans.push_back(curr->val);
+                    curr = curr->right;
+                }
+            }
+
+        }
         return ans;
     }
 };
