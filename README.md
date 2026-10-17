@@ -14,6 +14,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aritik755/LeetCode-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aritik755/LeetCode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aritik755/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/aritik755/LeetCode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/aritik755/LeetCode-DSA/tree/master/0136-single-number) |
@@ -227,6 +228,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0004-median-of-two-sorted-arrays](https://github.com/aritik755/LeetCode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/aritik755/LeetCode-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aritik755/LeetCode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/aritik755/LeetCode-DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/aritik755/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -444,6 +446,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0102-binary-tree-level-order-traversal](https://github.com/aritik755/LeetCode-DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aritik755/LeetCode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aritik755/LeetCode-DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aritik755/LeetCode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aritik755/LeetCode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -477,6 +480,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0102-binary-tree-level-order-traversal](https://github.com/aritik755/LeetCode-DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aritik755/LeetCode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aritik755/LeetCode-DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aritik755/LeetCode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aritik755/LeetCode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -518,6 +522,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/aritik755/LeetCode-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
