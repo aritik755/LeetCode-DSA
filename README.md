@@ -459,6 +459,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0662-maximum-width-of-binary-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/aritik755/LeetCode-DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -474,6 +475,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0543-diameter-of-binary-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/aritik755/LeetCode-DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -495,6 +497,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0662-maximum-width-of-binary-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/aritik755/LeetCode-DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -502,6 +505,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0102-binary-tree-level-order-traversal](https://github.com/aritik755/LeetCode-DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/aritik755/LeetCode-DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## String Matching
 |  |
 | ------- |
@@ -530,4 +534,5 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0450-delete-node-in-a-bst](https://github.com/aritik755/LeetCode-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/aritik755/LeetCode-DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
