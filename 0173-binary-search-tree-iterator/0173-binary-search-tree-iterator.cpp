@@ -26,7 +26,7 @@ public:
     int next() {
         TreeNode* ans = s.top();
         s.pop();
-        if(ans->right != NULL) storeLeftMost(ans->right);
+        storeLeftMost(ans->right);
         return ans->val;
     }
     
