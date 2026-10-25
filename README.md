@@ -470,6 +470,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0701-insert-into-a-binary-search-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/aritik755/LeetCode-DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aritik755/LeetCode-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2236-root-equals-sum-of-children](https://github.com/aritik755/LeetCode-DSA/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -516,6 +517,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0701-insert-into-a-binary-search-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/aritik755/LeetCode-DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aritik755/LeetCode-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2236-root-equals-sum-of-children](https://github.com/aritik755/LeetCode-DSA/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
 | ------- |
