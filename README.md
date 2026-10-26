@@ -172,6 +172,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0728-self-dividing-numbers](https://github.com/aritik755/LeetCode-DSA/tree/master/0728-self-dividing-numbers) |
 | [1025-divisor-game](https://github.com/aritik755/LeetCode-DSA/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/aritik755/LeetCode-DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aritik755/LeetCode-DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aritik755/LeetCode-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aritik755/LeetCode-DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/aritik755/LeetCode-DSA/tree/master/1486-xor-operation-in-an-array) |
@@ -282,6 +283,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0328-odd-even-linked-list](https://github.com/aritik755/LeetCode-DSA/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/aritik755/LeetCode-DSA/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/aritik755/LeetCode-DSA/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aritik755/LeetCode-DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/aritik755/LeetCode-DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aritik755/LeetCode-DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/aritik755/LeetCode-DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
