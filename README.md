@@ -130,6 +130,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0905-sort-array-by-parity](https://github.com/aritik755/LeetCode-DSA/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/aritik755/LeetCode-DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aritik755/LeetCode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aritik755/LeetCode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/aritik755/LeetCode-DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -479,6 +480,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0701-insert-into-a-binary-search-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/aritik755/LeetCode-DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aritik755/LeetCode-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/aritik755/LeetCode-DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2236-root-equals-sum-of-children](https://github.com/aritik755/LeetCode-DSA/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -499,6 +501,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0572-subtree-of-another-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/aritik755/LeetCode-DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/aritik755/LeetCode-DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -526,6 +529,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0701-insert-into-a-binary-search-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/aritik755/LeetCode-DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aritik755/LeetCode-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/aritik755/LeetCode-DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2236-root-equals-sum-of-children](https://github.com/aritik755/LeetCode-DSA/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
@@ -569,6 +573,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0701-insert-into-a-binary-search-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/aritik755/LeetCode-DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aritik755/LeetCode-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/aritik755/LeetCode-DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Monotonic Stack
 |  |
 | ------- |
