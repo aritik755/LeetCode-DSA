@@ -11,31 +11,48 @@
  */
 class Solution {
 public:
-    void insert(TreeNode* root, vector<int> &l){
+    void inorder(TreeNode* root, vector<int> &l){
         if(root == NULL) return;
 
-        insert(root->left, l);
+        inorder(root->left, l);
         l.push_back(root->val);
-        insert(root->right, l);
+        inorder(root->right, l);
+    }
+    vector<int> merge(vector<int> &a, vector<int> &b){
+        int i = 0, j = 0;
+        vector<int> ans;
+
+        while(i < a.size() && j < b.size()){
+            if(a[i] <= b[j]){
+                ans.push_back(a[i]);
+                i++;
+            }
+            else if(a[i] > b[j]){
+                ans.push_back(b[j]);
+                j++;
+            }
+        }
+
+        while(i < a.size()){
+            ans.push_back(a[i]);
+            i++;
+        }
+
+        while(j < b.size()){
+            ans.push_back(b[j]);
+            j++;
+        }
+
+        return ans;
     }
     vector<int> getAllElements(TreeNode* root1, TreeNode* root2) {
         vector<int> l1;
         vector<int> l2;
         vector<int> res;
 
-        insert(root1, l1);
-        insert(root2, l2);
+        inorder(root1, l1);
+        inorder(root2, l2);
 
-        for(int i = 0; i < l1.size(); i++){
-            res.push_back(l1[i]);
-        }
-        for(int i = 0; i < l2.size(); i++){
-            res.push_back(l2[i]);
-        }
-
-        sort(res.begin(), res.end());
-
-        return res;
-
+        return merge(l1,l2);
     }
 };
