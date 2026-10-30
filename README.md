@@ -238,6 +238,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0023-merge-k-sorted-lists](https://github.com/aritik755/LeetCode-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aritik755/LeetCode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/aritik755/LeetCode-DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/aritik755/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -278,6 +279,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0061-rotate-list](https://github.com/aritik755/LeetCode-DSA/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/aritik755/LeetCode-DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/aritik755/LeetCode-DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aritik755/LeetCode-DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aritik755/LeetCode-DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/aritik755/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
@@ -464,6 +466,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0104-maximum-depth-of-binary-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aritik755/LeetCode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aritik755/LeetCode-DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aritik755/LeetCode-DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aritik755/LeetCode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
@@ -513,6 +516,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0104-maximum-depth-of-binary-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aritik755/LeetCode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aritik755/LeetCode-DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aritik755/LeetCode-DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aritik755/LeetCode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
@@ -566,6 +570,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0098-validate-binary-search-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/aritik755/LeetCode-DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aritik755/LeetCode-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/aritik755/LeetCode-DSA/tree/master/0450-delete-node-in-a-bst) |
