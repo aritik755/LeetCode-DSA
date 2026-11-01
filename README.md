@@ -34,6 +34,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0442-find-all-duplicates-in-an-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aritik755/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/aritik755/LeetCode-DSA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/aritik755/LeetCode-DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/aritik755/LeetCode-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aritik755/LeetCode-DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -325,6 +326,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0173-binary-search-tree-iterator](https://github.com/aritik755/LeetCode-DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/aritik755/LeetCode-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/aritik755/LeetCode-DSA/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/aritik755/LeetCode-DSA/tree/master/0682-baseball-game) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aritik755/LeetCode-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Quickselect
 |  |
@@ -376,6 +378,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/aritik755/LeetCode-DSA/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/aritik755/LeetCode-DSA/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/aritik755/LeetCode-DSA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aritik755/LeetCode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/aritik755/LeetCode-DSA/tree/master/2180-count-integers-with-even-digit-sum) |
