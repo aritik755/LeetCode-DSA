@@ -193,6 +193,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [2235-add-two-integers](https://github.com/aritik755/LeetCode-DSA/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/aritik755/LeetCode-DSA/tree/master/2413-smallest-even-multiple) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aritik755/LeetCode-DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2443-sum-of-number-and-its-reverse](https://github.com/aritik755/LeetCode-DSA/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/aritik755/LeetCode-DSA/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/aritik755/LeetCode-DSA/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/aritik755/LeetCode-DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -370,6 +371,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/aritik755/LeetCode-DSA/tree/master/1952-three-divisors) |
+| [2443-sum-of-number-and-its-reverse](https://github.com/aritik755/LeetCode-DSA/tree/master/2443-sum-of-number-and-its-reverse) |
 ## Sieve Theory
 |  |
 | ------- |
