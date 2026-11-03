@@ -53,6 +53,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/aritik755/LeetCode-DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/aritik755/LeetCode-DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aritik755/LeetCode-DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1672-richest-customer-wealth](https://github.com/aritik755/LeetCode-DSA/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/aritik755/LeetCode-DSA/tree/master/1929-concatenation-of-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/aritik755/LeetCode-DSA/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aritik755/LeetCode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -446,6 +447,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/aritik755/LeetCode-DSA/tree/master/0054-spiral-matrix) |
+| [1672-richest-customer-wealth](https://github.com/aritik755/LeetCode-DSA/tree/master/1672-richest-customer-wealth) |
 | [2643-row-with-maximum-ones](https://github.com/aritik755/LeetCode-DSA/tree/master/2643-row-with-maximum-ones) |
 ## Minimax
 |  |
