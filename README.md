@@ -51,6 +51,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [1394-find-lucky-integer-in-an-array](https://github.com/aritik755/LeetCode-DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/aritik755/LeetCode-DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aritik755/LeetCode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aritik755/LeetCode-DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/aritik755/LeetCode-DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/aritik755/LeetCode-DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/aritik755/LeetCode-DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -337,6 +338,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0234-palindrome-linked-list](https://github.com/aritik755/LeetCode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/aritik755/LeetCode-DSA/tree/master/0682-baseball-game) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aritik755/LeetCode-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aritik755/LeetCode-DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Quickselect
 |  |
 | ------- |
@@ -602,6 +604,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aritik755/LeetCode-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aritik755/LeetCode-DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Iterator
 |  |
 | ------- |
