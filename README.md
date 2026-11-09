@@ -58,6 +58,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/aritik755/LeetCode-DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aritik755/LeetCode-DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/aritik755/LeetCode-DSA/tree/master/1672-richest-customer-wealth) |
+| [1748-sum-of-unique-elements](https://github.com/aritik755/LeetCode-DSA/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/aritik755/LeetCode-DSA/tree/master/1929-concatenation-of-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/aritik755/LeetCode-DSA/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aritik755/LeetCode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -170,6 +171,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0442-find-all-duplicates-in-an-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aritik755/LeetCode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aritik755/LeetCode-DSA/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1748-sum-of-unique-elements](https://github.com/aritik755/LeetCode-DSA/tree/master/1748-sum-of-unique-elements) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aritik755/LeetCode-DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Math
 |  |
@@ -262,6 +264,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | ------- |
 | [0169-majority-element](https://github.com/aritik755/LeetCode-DSA/tree/master/0169-majority-element) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aritik755/LeetCode-DSA/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1748-sum-of-unique-elements](https://github.com/aritik755/LeetCode-DSA/tree/master/1748-sum-of-unique-elements) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aritik755/LeetCode-DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aritik755/LeetCode-DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3978-unique-middle-element](https://github.com/aritik755/LeetCode-DSA/tree/master/3978-unique-middle-element) |
