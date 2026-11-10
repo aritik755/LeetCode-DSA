@@ -59,6 +59,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aritik755/LeetCode-DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/aritik755/LeetCode-DSA/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/aritik755/LeetCode-DSA/tree/master/1748-sum-of-unique-elements) |
+| [1920-build-array-from-permutation](https://github.com/aritik755/LeetCode-DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/aritik755/LeetCode-DSA/tree/master/1929-concatenation-of-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/aritik755/LeetCode-DSA/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aritik755/LeetCode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -395,6 +396,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | ------- |
 | [0054-spiral-matrix](https://github.com/aritik755/LeetCode-DSA/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/aritik755/LeetCode-DSA/tree/master/0682-baseball-game) |
+| [1920-build-array-from-permutation](https://github.com/aritik755/LeetCode-DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/aritik755/LeetCode-DSA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aritik755/LeetCode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/aritik755/LeetCode-DSA/tree/master/2180-count-integers-with-even-digit-sum) |
