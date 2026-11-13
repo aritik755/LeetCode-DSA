@@ -25,6 +25,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0169-majority-element](https://github.com/aritik755/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/aritik755/LeetCode-DSA/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/aritik755/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/aritik755/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/aritik755/LeetCode-DSA/tree/master/0239-sliding-window-maximum) |
@@ -461,6 +462,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/aritik755/LeetCode-DSA/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/aritik755/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [1672-richest-customer-wealth](https://github.com/aritik755/LeetCode-DSA/tree/master/1672-richest-customer-wealth) |
 | [2643-row-with-maximum-ones](https://github.com/aritik755/LeetCode-DSA/tree/master/2643-row-with-maximum-ones) |
 ## Minimax
@@ -475,6 +477,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/aritik755/LeetCode-DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/aritik755/LeetCode-DSA/tree/master/0200-number-of-islands) |
 ## Greedy
 |  |
 | ------- |
@@ -526,6 +529,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aritik755/LeetCode-DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aritik755/LeetCode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aritik755/LeetCode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/aritik755/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aritik755/LeetCode-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/aritik755/LeetCode-DSA/tree/master/0257-binary-tree-paths) |
@@ -571,6 +575,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0102-binary-tree-level-order-traversal](https://github.com/aritik755/LeetCode-DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aritik755/LeetCode-DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0200-number-of-islands](https://github.com/aritik755/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aritik755/LeetCode-DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/aritik755/LeetCode-DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## String Matching
