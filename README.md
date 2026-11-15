@@ -73,6 +73,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aritik755/LeetCode-DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/aritik755/LeetCode-DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2643-row-with-maximum-ones](https://github.com/aritik755/LeetCode-DSA/tree/master/2643-row-with-maximum-ones) |
+| [2678-number-of-senior-citizens](https://github.com/aritik755/LeetCode-DSA/tree/master/2678-number-of-senior-citizens) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/aritik755/LeetCode-DSA/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aritik755/LeetCode-DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/aritik755/LeetCode-DSA/tree/master/2942-find-words-containing-character) |
@@ -290,6 +291,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [1768-merge-strings-alternately](https://github.com/aritik755/LeetCode-DSA/tree/master/1768-merge-strings-alternately) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/aritik755/LeetCode-DSA/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/aritik755/LeetCode-DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2678-number-of-senior-citizens](https://github.com/aritik755/LeetCode-DSA/tree/master/2678-number-of-senior-citizens) |
 | [2942-find-words-containing-character](https://github.com/aritik755/LeetCode-DSA/tree/master/2942-find-words-containing-character) |
 | [3894-traffic-signal-color](https://github.com/aritik755/LeetCode-DSA/tree/master/3894-traffic-signal-color) |
 ## Linked List
