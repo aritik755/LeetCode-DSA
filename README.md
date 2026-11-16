@@ -67,6 +67,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aritik755/LeetCode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aritik755/LeetCode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/aritik755/LeetCode-DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/aritik755/LeetCode-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aritik755/LeetCode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aritik755/LeetCode-DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/aritik755/LeetCode-DSA/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -291,6 +292,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [1768-merge-strings-alternately](https://github.com/aritik755/LeetCode-DSA/tree/master/1768-merge-strings-alternately) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/aritik755/LeetCode-DSA/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/aritik755/LeetCode-DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/aritik755/LeetCode-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2678-number-of-senior-citizens](https://github.com/aritik755/LeetCode-DSA/tree/master/2678-number-of-senior-citizens) |
 | [2942-find-words-containing-character](https://github.com/aritik755/LeetCode-DSA/tree/master/2942-find-words-containing-character) |
 | [3894-traffic-signal-color](https://github.com/aritik755/LeetCode-DSA/tree/master/3894-traffic-signal-color) |
