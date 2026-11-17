@@ -77,6 +77,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [2678-number-of-senior-citizens](https://github.com/aritik755/LeetCode-DSA/tree/master/2678-number-of-senior-citizens) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/aritik755/LeetCode-DSA/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aritik755/LeetCode-DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/aritik755/LeetCode-DSA/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/aritik755/LeetCode-DSA/tree/master/2942-find-words-containing-character) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aritik755/LeetCode-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3978-unique-middle-element](https://github.com/aritik755/LeetCode-DSA/tree/master/3978-unique-middle-element) |
@@ -294,6 +295,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/aritik755/LeetCode-DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/aritik755/LeetCode-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2678-number-of-senior-citizens](https://github.com/aritik755/LeetCode-DSA/tree/master/2678-number-of-senior-citizens) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/aritik755/LeetCode-DSA/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/aritik755/LeetCode-DSA/tree/master/2942-find-words-containing-character) |
 | [3894-traffic-signal-color](https://github.com/aritik755/LeetCode-DSA/tree/master/3894-traffic-signal-color) |
 ## Linked List
