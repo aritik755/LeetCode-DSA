@@ -60,6 +60,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [1480-running-sum-of-1d-array](https://github.com/aritik755/LeetCode-DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/aritik755/LeetCode-DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/aritik755/LeetCode-DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1528-shuffle-string](https://github.com/aritik755/LeetCode-DSA/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aritik755/LeetCode-DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/aritik755/LeetCode-DSA/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/aritik755/LeetCode-DSA/tree/master/1748-sum-of-unique-elements) |
@@ -295,6 +296,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0344-reverse-string](https://github.com/aritik755/LeetCode-DSA/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/aritik755/LeetCode-DSA/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/aritik755/LeetCode-DSA/tree/master/0709-to-lower-case) |
+| [1528-shuffle-string](https://github.com/aritik755/LeetCode-DSA/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aritik755/LeetCode-DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/aritik755/LeetCode-DSA/tree/master/1768-merge-strings-alternately) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/aritik755/LeetCode-DSA/tree/master/1961-check-if-string-is-a-prefix-of-array) |
