@@ -181,6 +181,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0242-valid-anagram](https://github.com/aritik755/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aritik755/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/aritik755/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/aritik755/LeetCode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aritik755/LeetCode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aritik755/LeetCode-DSA/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -278,6 +279,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | ------- |
 | [0169-majority-element](https://github.com/aritik755/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/aritik755/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/aritik755/LeetCode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aritik755/LeetCode-DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/aritik755/LeetCode-DSA/tree/master/1748-sum-of-unique-elements) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aritik755/LeetCode-DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -296,6 +298,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0242-valid-anagram](https://github.com/aritik755/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/aritik755/LeetCode-DSA/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/aritik755/LeetCode-DSA/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/aritik755/LeetCode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/aritik755/LeetCode-DSA/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/aritik755/LeetCode-DSA/tree/master/0709-to-lower-case) |
 | [1528-shuffle-string](https://github.com/aritik755/LeetCode-DSA/tree/master/1528-shuffle-string) |
@@ -465,6 +468,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/aritik755/LeetCode-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/aritik755/LeetCode-DSA/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/aritik755/LeetCode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
