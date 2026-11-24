@@ -121,6 +121,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0234-palindrome-linked-list](https://github.com/aritik755/LeetCode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/aritik755/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/aritik755/LeetCode-DSA/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/aritik755/LeetCode-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/aritik755/LeetCode-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/aritik755/LeetCode-DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -299,6 +300,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0242-valid-anagram](https://github.com/aritik755/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/aritik755/LeetCode-DSA/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/aritik755/LeetCode-DSA/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/aritik755/LeetCode-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/aritik755/LeetCode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/aritik755/LeetCode-DSA/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/aritik755/LeetCode-DSA/tree/master/0709-to-lower-case) |
