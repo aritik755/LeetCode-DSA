@@ -32,6 +32,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0268-missing-number](https://github.com/aritik755/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aritik755/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/aritik755/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aritik755/LeetCode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/aritik755/LeetCode-DSA/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -94,6 +95,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aritik755/LeetCode-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/aritik755/LeetCode-DSA/tree/master/0268-missing-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aritik755/LeetCode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/aritik755/LeetCode-DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/aritik755/LeetCode-DSA/tree/master/0713-subarray-product-less-than-k) |
@@ -145,6 +147,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0242-valid-anagram](https://github.com/aritik755/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aritik755/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/aritik755/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aritik755/LeetCode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/aritik755/LeetCode-DSA/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aritik755/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -349,6 +352,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0215-kth-largest-element-in-an-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/aritik755/LeetCode-DSA/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/aritik755/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aritik755/LeetCode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0912-sort-an-array](https://github.com/aritik755/LeetCode-DSA/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aritik755/LeetCode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
@@ -491,6 +495,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | ------- |
 | [0054-spiral-matrix](https://github.com/aritik755/LeetCode-DSA/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/aritik755/LeetCode-DSA/tree/master/0200-number-of-islands) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aritik755/LeetCode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0994-rotting-oranges](https://github.com/aritik755/LeetCode-DSA/tree/master/0994-rotting-oranges) |
 | [1672-richest-customer-wealth](https://github.com/aritik755/LeetCode-DSA/tree/master/1672-richest-customer-wealth) |
 | [2643-row-with-maximum-ones](https://github.com/aritik755/LeetCode-DSA/tree/master/2643-row-with-maximum-ones) |
