@@ -192,6 +192,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [1748-sum-of-unique-elements](https://github.com/aritik755/LeetCode-DSA/tree/master/1748-sum-of-unique-elements) |
 | [1796-second-largest-digit-in-a-string](https://github.com/aritik755/LeetCode-DSA/tree/master/1796-second-largest-digit-in-a-string) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aritik755/LeetCode-DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [3945-digit-frequency-score](https://github.com/aritik755/LeetCode-DSA/tree/master/3945-digit-frequency-score) |
 ## Math
 |  |
 | ------- |
@@ -239,6 +240,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aritik755/LeetCode-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/aritik755/LeetCode-DSA/tree/master/3783-mirror-distance-of-an-integer) |
 | [3894-traffic-signal-color](https://github.com/aritik755/LeetCode-DSA/tree/master/3894-traffic-signal-color) |
+| [3945-digit-frequency-score](https://github.com/aritik755/LeetCode-DSA/tree/master/3945-digit-frequency-score) |
 | [3959-check-good-integer](https://github.com/aritik755/LeetCode-DSA/tree/master/3959-check-good-integer) |
 ## Bit Manipulation
 |  |
