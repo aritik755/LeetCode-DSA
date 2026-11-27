@@ -316,6 +316,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/aritik755/LeetCode-DSA/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/aritik755/LeetCode-DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/aritik755/LeetCode-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2278-percentage-of-letter-in-string](https://github.com/aritik755/LeetCode-DSA/tree/master/2278-percentage-of-letter-in-string) |
 | [2678-number-of-senior-citizens](https://github.com/aritik755/LeetCode-DSA/tree/master/2678-number-of-senior-citizens) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/aritik755/LeetCode-DSA/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/aritik755/LeetCode-DSA/tree/master/2942-find-words-containing-character) |
