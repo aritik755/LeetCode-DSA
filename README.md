@@ -69,6 +69,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [1929-concatenation-of-array](https://github.com/aritik755/LeetCode-DSA/tree/master/1929-concatenation-of-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/aritik755/LeetCode-DSA/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aritik755/LeetCode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/aritik755/LeetCode-DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aritik755/LeetCode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/aritik755/LeetCode-DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/aritik755/LeetCode-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -191,6 +192,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [1394-find-lucky-integer-in-an-array](https://github.com/aritik755/LeetCode-DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/aritik755/LeetCode-DSA/tree/master/1748-sum-of-unique-elements) |
 | [1796-second-largest-digit-in-a-string](https://github.com/aritik755/LeetCode-DSA/tree/master/1796-second-largest-digit-in-a-string) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/aritik755/LeetCode-DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aritik755/LeetCode-DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3945-digit-frequency-score](https://github.com/aritik755/LeetCode-DSA/tree/master/3945-digit-frequency-score) |
 ## Math
@@ -289,6 +291,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [0387-first-unique-character-in-a-string](https://github.com/aritik755/LeetCode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aritik755/LeetCode-DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/aritik755/LeetCode-DSA/tree/master/1748-sum-of-unique-elements) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/aritik755/LeetCode-DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aritik755/LeetCode-DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aritik755/LeetCode-DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3978-unique-middle-element](https://github.com/aritik755/LeetCode-DSA/tree/master/3978-unique-middle-element) |
@@ -314,6 +317,7 @@ Welcome to my **LeetCode Solutions** repository! This repository contains my sol
 | [1768-merge-strings-alternately](https://github.com/aritik755/LeetCode-DSA/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/aritik755/LeetCode-DSA/tree/master/1796-second-largest-digit-in-a-string) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/aritik755/LeetCode-DSA/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/aritik755/LeetCode-DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/aritik755/LeetCode-DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/aritik755/LeetCode-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2278-percentage-of-letter-in-string](https://github.com/aritik755/LeetCode-DSA/tree/master/2278-percentage-of-letter-in-string) |
